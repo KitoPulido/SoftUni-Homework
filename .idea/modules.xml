@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Basic/.idea/Basic.iml" filepath="$PROJECT_DIR$/Basic/.idea/Basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fundamentals/.idea/Fundamentals.iml" filepath="$PROJECT_DIR$/Fundamentals/.idea/Fundamentals.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/SoftUni-Homework.iml" filepath="$PROJECT_DIR$/.idea/SoftUni-Homework.iml" />
     </modules>
   </component>
