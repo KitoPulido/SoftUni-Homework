@@ -21,7 +21,7 @@ for shoping_days in range(1, days + 1):
     if shoping_days % 10 == 0:
         chr_spirit -= 20
         total_cost += 23
-    
+
 if days % 10 == 0:
     chr_spirit -= 30
 
