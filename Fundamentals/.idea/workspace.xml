@@ -5,19 +5,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8465d3f8-a647-43a1-b6d9-a85a59f926f9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Programming Fundamentals with Python_Exam Preparation/Treasure Hunt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Types and Variables - Exercise/Party Profit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Types and Variables - Exercise/Triples of Latin Letters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Types and Variables - Exercise/Water Overflow.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2ninyl5uQ6zmPSCiFJiyTWa1sps" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -25,6 +35,9 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Party Profit.executor": "Run",
+    "Python.Triples of Latin Letters.executor": "Run",
+    "Python.Water Overflow.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
