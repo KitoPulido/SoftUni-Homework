@@ -5,12 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8465d3f8-a647-43a1-b6d9-a85a59f926f9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Data Types and Variables - Exercise/Gladiator Expenses.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data Types and Variables - Exercise/Snowballs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data Types and Variables - More Exercises/Balanced Brackets.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data Types and Variables - More Exercises/Decrypting Messages.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data Types and Variables - More Exercises/Exchange Integers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data Types and Variables - More Exercises/Prime Number Checker.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lists Basics - Lab/Courses.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lists Basics - Lab/List Statistics.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lists Basics - Lab/Numbers Filter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lists Basics - Lab/Search.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lists Basics - Lab/Strange Zoo.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,12 +38,18 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.Balanced Brackets.executor": "Run",
+    "Python.Courses.executor": "Run",
     "Python.Decrypting Messages.executor": "Run",
     "Python.Exchange Integers.executor": "Run",
     "Python.Gladiator Expenses.executor": "Run",
+    "Python.List Statistics.executor": "Run",
+    "Python.Numbers Filter.executor": "Run",
     "Python.Party Profit.executor": "Run",
     "Python.Prime Number Checker.executor": "Run",
+    "Python.Search.executor": "Run",
     "Python.Snowballs.executor": "Run",
+    "Python.SoftUni Reception.executor": "Run",
+    "Python.Strange Zoo.executor": "Run",
     "Python.Sum of Chars.executor": "Run",
     "Python.Triples of Latin Letters.executor": "Run",
     "Python.Water Overflow.executor": "Run",
