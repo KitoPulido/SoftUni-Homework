@@ -5,11 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8465d3f8-a647-43a1-b6d9-a85a59f926f9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Lists Basics - Lab/Courses.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lists Basics - Lab/List Statistics.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lists Basics - Lab/Numbers Filter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lists Basics - Lab/Search.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lists Basics - Lab/Strange Zoo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam/Programming Fundamentals Mid Exam/Spring Vacation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lists Basics - Exercise/Faro Shuffle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lists Basics - Exercise/Football Cards.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lists Basics - Exercise/Invert Values.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lists Basics - Exercise/Multiples List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lists Basics - Exercise/Number Beggars.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -27,6 +28,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -37,18 +41,26 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Array Modifier.executor": "Run",
     "Python.Balanced Brackets.executor": "Run",
+    "Python.Book's World.executor": "Run",
     "Python.Courses.executor": "Run",
     "Python.Decrypting Messages.executor": "Run",
     "Python.Exchange Integers.executor": "Run",
+    "Python.Football Cards.executor": "Run",
     "Python.Gladiator Expenses.executor": "Run",
+    "Python.Invert Values.executor": "Run",
     "Python.List Statistics.executor": "Run",
+    "Python.Multiples List.executor": "Run",
+    "Python.Number Beggars.executor": "Run",
     "Python.Numbers Filter.executor": "Run",
+    "Python.Paintings' Numbers.executor": "Run",
     "Python.Party Profit.executor": "Run",
     "Python.Prime Number Checker.executor": "Run",
     "Python.Search.executor": "Run",
     "Python.Snowballs.executor": "Run",
     "Python.SoftUni Reception.executor": "Run",
+    "Python.Spring Vacation.executor": "Run",
     "Python.Strange Zoo.executor": "Run",
     "Python.Sum of Chars.executor": "Run",
     "Python.Triples of Latin Letters.executor": "Run",
@@ -76,5 +88,21 @@
       <updated>1729465022281</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Exam/Programming Fundamentals Mid Exam/Spring Vacation.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Exam/Programming Fundamentals Mid Exam/Book's World.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
